@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiosqlite
+pydantic
+pydantic-settings
+python-multipart
+keybert
+sentence-transformers
+nltk
+numpy
